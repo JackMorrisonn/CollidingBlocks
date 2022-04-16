@@ -107,5 +107,7 @@ def main():
         pygame.display.update()
 
     pygame.quit()
+
     
-main()
+if __name__ == '__main__':
+    main()
